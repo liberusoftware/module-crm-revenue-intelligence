@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-revenue-intelligence","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\RevenueIntelligence\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\RevenueIntelligence\\RevenueIntelligenceServiceProvider"]},"liberu":{"name":"crm-revenue-intelligence"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-revenue-intelligence","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\RevenueIntelligence\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\RevenueIntelligence\\RevenueIntelligenceServiceProvider"]},"liberu":{"name":"crm-revenue-intelligence"}},"description":"Pipeline health, scoring and revenue alerts","license":"MIT"}
